@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 node:22.22.0-trixie
 apache/beam_java21_sdk:latest
+maven:4.0.0-rc-5-eclipse-temurin-21-alpine
+
