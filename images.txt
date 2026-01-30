@@ -7,4 +7,6 @@ xhofe/alist:latest
 node:22.22.0-trixie
 apache/beam_java21_sdk:latest
 maven:4.0.0-rc-5-eclipse-temurin-21-alpine
+hotelinking/mysql8.0:latest
+redis:7.4.7-alpine
 
